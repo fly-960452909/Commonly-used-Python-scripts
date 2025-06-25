@@ -36,5 +36,6 @@
 ## 使用说明
 
 ### 环境依赖
+再Python终端下载requirements.txt里面的各个库就能运行脚本了
 ```bash
 pip install -r requirements.txt
