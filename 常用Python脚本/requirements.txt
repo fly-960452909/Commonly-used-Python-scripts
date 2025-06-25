@@ -1,0 +1,3 @@
+> ```
+> numpy matplotlib sympy pillow pypdf2 python-docx fitz PyMuPDF comtypes pywin32 pdf2docx
+> ```
