@@ -1,5 +1,3 @@
-# Commonly-used-Python-scripts
-大学生日常学习生活可能会用到的Python辅助脚本，后续应该会不定时不间断的保持更新（看情况）
 # Python 自动化脚本集合
 
 本项目包含多个实用的 Python 脚本，涵盖数学计算、图像处理、PDF 操作和办公自动化等功能。所有脚本均支持中文交互界面。
@@ -36,6 +34,5 @@
 ## 使用说明
 
 ### 环境依赖
-再Python终端下载requirements.txt里面的各个库就能运行脚本了
 ```bash
 pip install -r requirements.txt
